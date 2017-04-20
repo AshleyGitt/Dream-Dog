@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>Recommendation System</title>
+	<style type="text/css">
+	body{ background-color: #DAC2B7; }
+	p {color:brown; font-family:comic sans ms;line-height:180%;}
+	h1{color:brown; font-family:comic sans ms;}
+	a:hover{color:red;}
+	
+	</style>
+</head>
+
+<center>
+<h1> Recommendation System: </h1>
+<body>
+<h1> Input a search term for Top 10 best rated venues in your area! </h1>
+<form>
+Search: <input type="text" name="username" value="Enter Search Here" maxlength="30"/>
+
+<hr>
+	<a href="newfile.html" title="Home">HOME</a> | <a href="MatchLink.html" title="Make a Match">MAKE A MATCH</a> | GAME | ABOUT US | CONTACT 
+<hr>
+<p> Having trouble finding the right dog? </p>
+<p> Would you like to get a chance to meet people with your dream dog? </p>
+<p> If you answered 'yes' to both questions you have come to the right place!
+<p> Click on tab to find your dream dog now! </p>
+</body>
+</center>
+</html>
